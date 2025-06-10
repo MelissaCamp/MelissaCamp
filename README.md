@@ -56,8 +56,7 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 Se quiser trocar ideias, colaborar em projetos ou tirar dúvidas:
 
 - ✉️ Email: melissa.campos1201@gmail.com  
-- 💼 LinkedIn: [Melissa Campos Assis](https://www.linkedin.com/in/melissa-campos-assis-10b439271)  
-- 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- 💼 LinkedIn: [Melissa Campos Assis](https://www.linkedin.com/in/melissa-campos-assis-10b439271)
 
 ---
 
