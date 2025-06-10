@@ -2,7 +2,7 @@
 
 ## 💻 Sobre mim
 
-Sou um entusiasta de tecnologia, apaixonado por desenvolvimento web, banco de dados, hardware e jogos. Tenho conhecimento prático em criação de sistemas completos, como o **IJunkFood** — um sistema de delivery com funcionalidades como cadastro de restaurantes, pratos, clientes, entregadores e muito mais.
+Sou um entusiasta de tecnologia, apaixonado por desenvolvimento web, banco de dados, hardware e jogos. Tenho conhecimento prático em criação de sistemas completos, como o **Achados e Amados** — um sistema de adoção com funcionalidades como cadastro de animais, clientes, funcionarios e muito mais.
 
 Trabalho com organização, lógica de programação, modelagem de dados e gosto de desenvolver soluções otimizadas e escaláveis.
 
@@ -56,7 +56,7 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 Se quiser trocar ideias, colaborar em projetos ou tirar dúvidas:
 
 - ✉️ Email: melissa.campos1201@gmail.com  
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/melissa-campos-assis-10b439271)  
+- 💼 LinkedIn: [Melissa Campos Assis](https://www.linkedin.com/in/melissa-campos-assis-10b439271)  
 - 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
 
 ---
