@@ -34,7 +34,7 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 
 ## 📈 Projetos em Destaque
 
-###  Achados e Amados – Sistema de Adoção para ONG
+### 🐶 Achados e Amados – Sistema de Adoção para ONG
 - Cadastro de animais, clientes e funcionarios
 - Sistema de gerenciamento de funções de funcionarios e controle de animais
 - Modelagem com GenMyModel e implementação em MySQL
