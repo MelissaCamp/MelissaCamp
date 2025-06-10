@@ -13,43 +13,41 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 ### 💡 Desenvolvimento Web
 - HTML5, CSS3, JavaScript
 - Bootstrap para design responsivo
-- PHP (nível iniciante/intermediário)
-- VS Code como editor principal
 
 ### 🗃️ Banco de Dados
 - MySQL
-- phpMyAdmin / MySQL Workbench
 - Modelagem DER/MER com GenMyModel
 
 ### ⚙️ Backend & Servidores
-- XAMPP / Laragon para ambiente local
-- Criação de conexões com banco de dados usando PHP
 - Estruturação de CRUDs (Create, Read, Update, Delete)
+- C#
+- ASP.NET
+- Azure
 
 ### 🎮 Hardware & Games
 - Conhecimento sólido em montagem de PCs gamers
 - Familiaridade com compatibilidade entre peças (ex: CPU Ryzen 5 5600 com B550M)
 - Avaliação de custo-benefício para placas de vídeo com 8GB de VRAM
-- Otimização de PCs para jogos como *The Sims 4* e títulos pesados
+- Otimização de PCs para jogos, aplicativos e títulos pesados
 
 ---
 
 ## 📈 Projetos em Destaque
 
-### 🛵 IJunkFood – Sistema de Delivery
-- Cadastro de restaurantes, pratos e categorias
-- Sistema de pedidos com pagamentos e endereços de entrega
-- Cadastro de entregadores
+###  Achados e Amados – Sistema de Adoção para ONG
+- Cadastro de animais, clientes e funcionarios
+- Sistema de gerenciamento de funções de funcionarios e controle de animais
 - Modelagem com GenMyModel e implementação em MySQL
+- Site em HTML5, CSS3, JavaScript feito em Visual Studio Code
+- Api e Desktop em C# e ASP.NET via Visual Studio 2022
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprofundar meus conhecimentos em backend (ex: Node.js, Laravel)
-- Criar APIs RESTful para conectar sistemas
-- Desenvolver apps móveis usando Flutter ou React Native
-- Aprimorar UI/UX em projetos pessoais
+- Aprofundar meus conhecimentos em front-end e back-end
+- Criar APIs para conectar sistema
+- Aprimorar UI/UX em projetos reais
 
 ---
 
@@ -57,8 +55,8 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 
 Se quiser trocar ideias, colaborar em projetos ou tirar dúvidas:
 
-- ✉️ Email: seu.email@exemplo.com  
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- ✉️ Email: melissa.campos1201@gmail.com  
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/melissa-campos-assis-10b439271)  
 - 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
 
 ---
