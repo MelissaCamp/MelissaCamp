@@ -32,7 +32,7 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 
 ---
 
-## 📈 Projetos em Destaque
+## 📈 Projeto em Destaque
 
 ### 🐶 Achados e Amados – Sistema de Adoção para ONG
 - Cadastro de animais, clientes e funcionários  
