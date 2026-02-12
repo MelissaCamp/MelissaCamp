@@ -19,7 +19,8 @@ Trabalho com organização, lógica de programação, modelagem de dados e gosto
 - Modelagem DER/MER com GenMyModel
 
 ### ⚙️ Backend & Servidores
-- Estruturação de CRUDs (Create, Read, Update, Delete)  
+- Estruturação de CRUDs (Create, Read, Update, Delete)
+- Java
 - C#  
 - ASP.NET  
 - Azure
