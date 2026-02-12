@@ -1,54 +1,58 @@
-# 👋 Olá! Eu sou Melissa Campos Assis  
+# Melissa Campos Assis
 
-## 💻 Sobre mim
+Desenvolvedora Backend em formação  
+Java | JavaScript | MySQL  
 
-Sou uma entusiasta de tecnologia, apaixonada por desenvolvimento web, banco de dados, hardware e jogos. Tenho conhecimento prático na criação de sistemas completos, como o **Achados e Amados** — um sistema de adoção com funcionalidades como cadastro de animais, clientes, funcionários e muito mais.
-
-Trabalho com organização, lógica de programação, modelagem de dados e gosto de desenvolver soluções otimizadas e escaláveis.
+🎓 Ciência da Computação  
+💻 Técnica em Informática  
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 👩‍💻 Sobre
 
-### 💡 Desenvolvimento Web
-- HTML5, CSS3, JavaScript  
-- Bootstrap para design responsivo
+Sou desenvolvedora em formação com foco em backend e construção de aplicações estruturadas.
+Tenho experiência acadêmica em desenvolvimento web, modelagem de dados e construção de sistemas com integração entre frontend, backend e banco de dados.
 
-### 🗃️ Banco de Dados
-- MySQL  
-- Modelagem DER/MER com GenMyModel
+Acredito na prática constante como forma de evolução técnica.
 
-### ⚙️ Backend & Servidores
-- Estruturação de CRUDs (Create, Read, Update, Delete)
+---
+
+## 🛠 Stack Principal
+
+### Backend
 - Java
-- C#  
-- ASP.NET  
-- Azure
+- C#
+- Conceitos de APIs
+- CRUD
 
-### 🎮 Hardware & Games
-- Conhecimento sólido em montagem de PCs gamers  
-- Familiaridade com compatibilidade entre peças (ex: CPU Ryzen 5 5600 com B550M)  
-- Avaliação de custo-benefício para placas de vídeo com 8GB de VRAM  
-- Otimização de PCs para jogos, aplicativos e títulos pesados
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
----
-
-## 📈 Projeto em Destaque
-
-### 🐶 Achados e Amados – Sistema de Adoção para ONG
-- Cadastro de animais, clientes e funcionários  
-- Sistema de gerenciamento de funções dos funcionários e controle de animais  
-- Modelagem com GenMyModel e implementação em MySQL  
-- Site desenvolvido com HTML5, CSS3 e JavaScript no Visual Studio Code  
-- API e aplicativo desktop em C# e ASP.NET via Visual Studio 2022
+### Banco de Dados
+- MySQL
+- Modelagem DER/MER
 
 ---
 
-## 🎯 Objetivos
+## 📂 Projeto Principal
 
-- Aprofundar meus conhecimentos em front-end e back-end  
-- Criar APIs para conectar sistemas  
-- Aprimorar UI/UX em projetos reais
+### 🐶 Achados e Amados
+
+Sistema completo de adoção para ONG.
+
+✔ Cadastro e gerenciamento de animais  
+✔ Controle de clientes e funcionários  
+✔ Banco de dados estruturado em MySQL  
+✔ Aplicação Web + API  
+
+---
+
+## 📈 Atualmente
+
+Desenvolvendo exercícios e projetos voltados para backend com Java.
 
 ---
 
@@ -61,4 +65,4 @@ Se quiser trocar ideias, colaborar em projetos ou tirar dúvidas:
 
 ---
 
-**“Software livre, hardware certo, dados organizados e performance no limite!”**
+**“Código limpo, dados organizados e evolução constante.”**
