@@ -11,6 +11,7 @@ Java | JavaScript | MySQL
 ## 👩‍💻 Sobre
 
 Sou desenvolvedora em formação com foco em backend e construção de aplicações estruturadas.
+
 Tenho experiência acadêmica em desenvolvimento web, modelagem de dados e construção de sistemas com integração entre frontend, backend e banco de dados.
 
 Acredito na prática constante como forma de evolução técnica.
